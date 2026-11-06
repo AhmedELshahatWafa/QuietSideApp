@@ -1,0 +1,9 @@
+C:/Users/AhmedWafa/Desktop/QuietSide App/build-mingw/CMakeFiles/CoworkingSpaceManager.dir
+C:/Users/AhmedWafa/Desktop/QuietSide App/build-mingw/CMakeFiles/edit_cache.dir
+C:/Users/AhmedWafa/Desktop/QuietSide App/build-mingw/CMakeFiles/rebuild_cache.dir
+C:/Users/AhmedWafa/Desktop/QuietSide App/build-mingw/CMakeFiles/list_install_components.dir
+C:/Users/AhmedWafa/Desktop/QuietSide App/build-mingw/CMakeFiles/install.dir
+C:/Users/AhmedWafa/Desktop/QuietSide App/build-mingw/CMakeFiles/install/local.dir
+C:/Users/AhmedWafa/Desktop/QuietSide App/build-mingw/CMakeFiles/install/strip.dir
+C:/Users/AhmedWafa/Desktop/QuietSide App/build-mingw/CMakeFiles/CoworkingSpaceManager_autogen_timestamp_deps.dir
+C:/Users/AhmedWafa/Desktop/QuietSide App/build-mingw/CMakeFiles/CoworkingSpaceManager_autogen.dir

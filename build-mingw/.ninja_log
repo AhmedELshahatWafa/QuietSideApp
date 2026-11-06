@@ -1,0 +1,38 @@
+# ninja log v6
+630	694	8155916679425538	C:/Users/AhmedWafa/Desktop/QuietSide App/build-mingw/CoworkingSpaceManager_autogen/3YJK5W5UP7/qrc_resources.cpp	260483a3431a738a
+15	653	8155953394919448	CoworkingSpaceManager_autogen/timestamp	f7e470d91c1996bd
+630	694	8155916679425538	CoworkingSpaceManager_autogen/3YJK5W5UP7/qrc_resources.cpp	260483a3431a738a
+15	653	8155953394919448	CoworkingSpaceManager_autogen/mocs_compilation.cpp	f7e470d91c1996bd
+704	2095	8155821611121790	CMakeFiles/CoworkingSpaceManager.dir/src/models/Session.cpp.obj	db4f169fd49d681e
+15	653	8155953394919448	C:/Users/AhmedWafa/Desktop/QuietSide App/build-mingw/CoworkingSpaceManager_autogen/timestamp	f7e470d91c1996bd
+15	653	8155953394919448	C:/Users/AhmedWafa/Desktop/QuietSide App/build-mingw/CoworkingSpaceManager_autogen/mocs_compilation.cpp	f7e470d91c1996bd
+705	823	8155916679618894	CMakeFiles/CoworkingSpaceManager.dir/CoworkingSpaceManager_autogen/3YJK5W5UP7/qrc_resources.cpp.obj	5a12f21b366502d
+653	2142	8155930452406768	CMakeFiles/CoworkingSpaceManager.dir/src/ui/AlertsPanel.cpp.obj	d007b9abfc511206
+2883	4532	8155688803311885	CMakeFiles/CoworkingSpaceManager.dir/src/models/Room.cpp.obj	9d5da00151e70e38
+705	2037	8155795274083790	CMakeFiles/CoworkingSpaceManager.dir/src/models/Transaction.cpp.obj	11ff6d19e1f8ea74
+832	2681	8155743180946272	CMakeFiles/CoworkingSpaceManager.dir/src/models/Client.cpp.obj	b813e9f41d1f8770
+658	2581	8155953395498341	CMakeFiles/CoworkingSpaceManager.dir/src/main.cpp.obj	7664bfc20c065c21
+666	1843	8155953395582507	CMakeFiles/CoworkingSpaceManager.dir/src/services/ClientManager.cpp.obj	8b4e4df0bfac08c5
+716	2914	8155803991133389	CMakeFiles/CoworkingSpaceManager.dir/src/ui/ClientFormDialog.cpp.obj	7b39e92e18500fe3
+686	2448	8155952096996419	CMakeFiles/CoworkingSpaceManager.dir/src/ui/ClientListView.cpp.obj	37ca9a53e3554067
+188	1757	8155943523975910	CMakeFiles/CoworkingSpaceManager.dir/src/ui/LobbyView.cpp.obj	32138afbdfa1092
+673	3155	8155953395671858	CMakeFiles/CoworkingSpaceManager.dir/src/ui/MainWindow.cpp.obj	1fba58eafb0a1bcc
+669	2116	8155953395622695	CMakeFiles/CoworkingSpaceManager.dir/src/services/SessionTimerService.cpp.obj	4a7cc38aa01f7a90
+661	2524	8155953395498341	CMakeFiles/CoworkingSpaceManager.dir/src/database/DatabaseManager.cpp.obj	8a9737831fb77ba3
+654	2629	8155953395468488	CMakeFiles/CoworkingSpaceManager.dir/CoworkingSpaceManager_autogen/mocs_compilation.cpp.obj	f13819573384f797
+3358	3965	8155952123719009	CoworkingSpaceManager.exe	9818994812167dab
+11	601	8155916672336041	build.ninja	ced0fac1305917c2
+15	620	8155954169245153	CoworkingSpaceManager.exe	9818994812167dab
+16	207	8155987260395343	CoworkingSpaceManager_autogen/timestamp	f7e470d91c1996bd
+16	207	8155987260395343	CoworkingSpaceManager_autogen/mocs_compilation.cpp	f7e470d91c1996bd
+16	207	8155987260395343	C:/Users/AhmedWafa/Desktop/QuietSide App/build-mingw/CoworkingSpaceManager_autogen/timestamp	f7e470d91c1996bd
+16	207	8155987260395343	C:/Users/AhmedWafa/Desktop/QuietSide App/build-mingw/CoworkingSpaceManager_autogen/mocs_compilation.cpp	f7e470d91c1996bd
+211	1820	8155987262363059	CMakeFiles/CoworkingSpaceManager.dir/src/ui/LobbyView.cpp.obj	32138afbdfa1092
+207	2473	8155987262339087	CMakeFiles/CoworkingSpaceManager.dir/src/ui/MainWindow.cpp.obj	1fba58eafb0a1bcc
+2473	3088	8155987284998735	CoworkingSpaceManager.exe	9818994812167dab
+14	199	8155989685707175	CoworkingSpaceManager_autogen/timestamp	f7e470d91c1996bd
+14	199	8155989685707175	CoworkingSpaceManager_autogen/mocs_compilation.cpp	f7e470d91c1996bd
+14	199	8155989685707175	C:/Users/AhmedWafa/Desktop/QuietSide App/build-mingw/CoworkingSpaceManager_autogen/timestamp	f7e470d91c1996bd
+14	199	8155989685707175	C:/Users/AhmedWafa/Desktop/QuietSide App/build-mingw/CoworkingSpaceManager_autogen/mocs_compilation.cpp	f7e470d91c1996bd
+199	2423	8155989687510352	CMakeFiles/CoworkingSpaceManager.dir/src/ui/MainWindow.cpp.obj	1fba58eafb0a1bcc
+2423	3024	8155989709800257	CoworkingSpaceManager.exe	9818994812167dab

@@ -1,0 +1,1 @@
+﻿C:\Qt\<QtVersion>\msvc2022_64\lib\cmake\Qt6\Qt6Config.cmake

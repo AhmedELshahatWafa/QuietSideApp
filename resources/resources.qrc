@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Sounds/TimeOutBeeb.mp3">../src/Sounds/TimeOutBeeb.mp3</file>
+    </qresource>
+</RCC>
